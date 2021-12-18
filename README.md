@@ -11,4 +11,4 @@ Recreation of David Hockney's Pool:
 <br />
 ![](https://github.com/madelinef1127/for_personal_website/blob/main/ani_pan1.gif)
 <br />
-![](https://cdn.glitch.me/adfe69f4-5eec-4424-a505-1afd2ad3f492%2Fani_pan2.gif?v=1638087721569)
+![](https://github.com/madelinef1127/for_personal_website/blob/main/ani_pan2.gif)
